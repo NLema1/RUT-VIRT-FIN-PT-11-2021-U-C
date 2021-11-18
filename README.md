@@ -1,4 +1,4 @@
-# Writing an Awesome README File
+# FinTech Bootcamp
 
 Having a README file is crucial for any project in GitHub, GitLab, or any other version control platform. This guide is intended to help you on creating a fabulous README file for all the projects, class activities, and homework assignments that you will create in the Boot Camp as part of your public, professional portfolio.
 
